@@ -72,7 +72,7 @@ hailomz compile \
 참조 : https://github.com/hailo-ai/Hailo-Application-Code-Examples
 
 ### Object Detection 추론
-참조 : GitHub Hailo-Application-Code-Examples/runtime/python/object_detect…
+참조 : [GitHub Hailo-Application-Code-Examples/runtime/python/object_detect…](https://github.com/hailo-ai/Hailo-Application-Code-Examples/tree/main/runtime/python/object_detection)
 ```python
 ./object_detection.py \
 	-n models.hef \
